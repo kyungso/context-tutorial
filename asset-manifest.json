@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/context-tutorial/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/context-tutorial/static/js/main.90a03ae0.chunk.js",
+    "main.js.map": "/context-tutorial/static/js/main.90a03ae0.chunk.js.map",
+    "runtime-main.js": "/context-tutorial/static/js/runtime-main.186ac46e.js",
+    "runtime-main.js.map": "/context-tutorial/static/js/runtime-main.186ac46e.js.map",
+    "static/js/2.535fdb43.chunk.js": "/context-tutorial/static/js/2.535fdb43.chunk.js",
+    "static/js/2.535fdb43.chunk.js.map": "/context-tutorial/static/js/2.535fdb43.chunk.js.map",
+    "index.html": "/context-tutorial/index.html",
+    "precache-manifest.0689ba4c3a60a7cb6aaefbc1ff487966.js": "/context-tutorial/precache-manifest.0689ba4c3a60a7cb6aaefbc1ff487966.js",
+    "service-worker.js": "/context-tutorial/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/context-tutorial/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.535fdb43.chunk.js.LICENSE": "/context-tutorial/static/js/2.535fdb43.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.186ac46e.js",
+    "static/js/2.535fdb43.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.90a03ae0.chunk.js"
+  ]
+}
