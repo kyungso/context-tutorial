@@ -8,7 +8,7 @@ const SelectColors = () => {
       <div>
         <h2>색상을 선택하세요.</h2>
         <ColorConsumer>
-        {value => (
+        {({ actions }) => (
             <div style={{ display: 'flex' }}>
               {colors.map(color => (
                 <div
@@ -19,10 +19,10 @@ const SelectColors = () => {
                       height:'24px',
                       cursor: 'pointer'
                   }}
-                  onClick={() => value.actions.setColor(color)}
+                  onClick={() => actions.setColor(color)}
                   onContextMenu={e => {
                       e.preventDefault();
-                      value.actions.setSubcolor(color);
+                      actions.setSubcolor(color);
                   }}
                 />
             ))}
