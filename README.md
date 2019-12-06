@@ -76,3 +76,7 @@ class ColorBox extends Component {
 
 export default ColorBox;
 ```
+
+<br>
+
+- 김민준, 『리액트를 다루는 기술, 개정판』
